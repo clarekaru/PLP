@@ -1,2 +1,2 @@
 # PLP
-Learning repo
+Learning Repo
